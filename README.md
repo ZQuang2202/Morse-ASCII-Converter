@@ -7,4 +7,4 @@ gcc morse.c -o morse.exe
 morse <input text file> <output text file>
 ```
 
-# Please raise a 🌟 if you found it interesting. 
+# Please raise a 🌟 if you find it interesting. 
